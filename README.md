@@ -4,8 +4,15 @@
 #### Tech Stack aimed to use
 * Java 8
 * Spring Boot
+* Jersey RESTFul API
 * Hibernate ORM
-* CLoud: Amazon Web Service
+* Front End
+    * CSS
+    * HTML
+    * JavaScript
+    * jQuery
+    * Bootstrap
+* Cloud: Amazon Web Service
     * EC2   - Ubuntu Web Server
     * RDS   - MySQL
     * S3    - Assets storage
